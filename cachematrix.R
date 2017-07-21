@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 ## This function compute the inverse of the matrix and stores
 ## the result in the cache and so does not recalculate the inverse
 ##but retrieve it from the cache
